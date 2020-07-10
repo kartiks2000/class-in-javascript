@@ -22,5 +22,3 @@ Topics covered -:
 
 9) and some special circumstances of "undefined".
 
-
-Was actually developed on 05/2020
